@@ -7,6 +7,8 @@ It is a program that I have developed not so long ago. Its main purpose was to c
 **NOTE:**
 Please keep in mind, that some of documentation in the main code is written in my native language. It is an old habit that I used to have. All my latest works are always in English language only.
 
+PAWN, MySQL (non-threaded version) are used in the main PWN file. C++ languages were used to create DLL plugins.
+
 # Source
 ________________________
 I am including all the source files where necessary. In order to create installed again, you will need a Install Creator Pro software; or you can simply create one using InstallShield or anything like that.
