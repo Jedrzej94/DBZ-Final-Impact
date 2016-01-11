@@ -1,3 +1,5 @@
+![logo](/master/images/logo.png)
+
 # Dragon Ball Z: Final Impact (0.3z R2-2)
 ________________________
 It is a program that I have developed not so long ago. Its main purpose was to create an immersive 3D world of Dragon Ball and let all the players enjoy the game together and have fun.
@@ -14,6 +16,11 @@ I am including all the source files where necessary. In order to create installe
 * Audio files are including source and can be edited through Sony Vegas (main source file) or through any other audio program. I have used SV 13.
 
 * Animations were made by me from scratch, you can edit them through 3Ds Max Studio as well if it's necessary for you.
+
+# Pictures
+________________________
+Progress pictures can be seen here:
+https://github.com/Jedrzej94/DBZ-Final-Impact/tree/master/master/images
 
 # Credits
 ________________________
