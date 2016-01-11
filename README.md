@@ -17,10 +17,11 @@ I am including all the source files where necessary. In order to create installe
 
 * Animations were made by me from scratch, you can edit them through 3Ds Max Studio as well if it's necessary for you.
 
-# Pictures
+# Showroom
 ________________________
-Progress pictures can be seen here:
-https://github.com/Jedrzej94/DBZ-Final-Impact/tree/master/master/images
+Progress pictures can be seen here: https://github.com/Jedrzej94/DBZ-Final-Impact/tree/master/master/images
+
+Audio files can be listened to here: https://github.com/Jedrzej94/DBZ-Final-Impact/tree/master/master/custom%20files/main/Sound%20effects
 
 # Credits
 ________________________
