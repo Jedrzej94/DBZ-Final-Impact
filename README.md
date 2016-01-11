@@ -9,6 +9,10 @@ Please keep in mind, that some of documentation in the main code is written in m
 
 PAWN, MySQL (non-threaded version) are used in the main PWN file. C++ languages were used to create DLL plugins.
 
+# Further progress
+________________________
+Code is based on San Andreas MAP. Project was supposed to be developed further on Unity3D game engine.
+
 # Source
 ________________________
 I am including all the source files where necessary. In order to create installed again, you will need a Install Creator Pro software; or you can simply create one using InstallShield or anything like that.
