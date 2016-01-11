@@ -21,6 +21,10 @@ I am including all the source files where necessary. In order to create installe
 
 # Showroom
 ________________________
+* Video:
+
+  https://youtu.be/fSb49VUnQ0w?t=20s
+  
 * Progress pictures can be seen here: 
 
   https://github.com/Jedrzej94/DBZ-Final-Impact/tree/master/master/images
