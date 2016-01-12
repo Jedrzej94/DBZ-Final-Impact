@@ -13,9 +13,20 @@ PAWN, MySQL (non-threaded version) are used in the main PWN file. C++ languages 
 ________________________
 Code is based on San Andreas MAP. Project was supposed to be developed further on Unity3D game engine.
 
+# Skills needed
+________________________
+In order to develop this project, it will require from you certain skills such as:
+
+* Modelling in 3Ds Max Studio (or any other 3D Modelling program).
+* Texturizing, which means ability to use graphical program like GIMP or Adobe Photoshop.
+* Programming in PAWN/C++ and other languages I have mentioned in the caption (unless you want to move it onto Unity3D or any other game engine).
+* Animating characters/models (can be done with 3Ds Max Studio).
+
+And of course logical thinking is very necessary, your time and efford. Creating game is taking a very long time, which is why I have decided to stop development of this project on my own.
+
 # Source
 ________________________
-I am including all the source files where necessary. In order to create installed again, you will need a Install Creator Pro software; or you can simply create one using InstallShield or anything like that.
+I am including all the source files where necessary. In order to create installer again, you will need a Install Creator Pro software; or you can simply create your own one using InstallShield or anything like that.
 
 * Models do not need any source files, since they can be opened through 3Ds Max Studio. Just open a converted file already (*.dff) in a software.
 
